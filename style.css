@@ -1,3 +1,44 @@
-.heading{
-    color: rgb(86, 29, 219);
+.up{
+    /* комментарий (просто чтобы не забыть синтаксис */
+    color: white;
+    /* height: 50px;  */
+    background-color: rgb(58, 20, 211);
+    font-size: 40px;
+    text-align: center;
+    padding: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(58, 20, 211);
+    color: white;
+}
+
+.glavnaya{
+    padding: 20px;
+}
+.text_1{ 
+    font-size: 24px;
+} 
+.foto_1{ 
+    float: left;
+    margin-right: 20px;
+}
+.foto_2{ 
+    float: right;
+    margin-left: 20px;
+}
+.foto_3{ 
+    float: inline-end;
+    margin-left: 20px;
+
+}
+.text_2{
+    text-align: center;
+    padding: 50px;
+    font-size: 25px;
+
 }
